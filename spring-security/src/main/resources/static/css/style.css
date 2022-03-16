@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: rgb(162, 247, 162);
+}
+main {
+	width: 600px;
+	margin: auto;
+	background: #fff;
+	padding: 50px;
+	height: 100vh;
+}
+h2, h3 {
+	text-align: center;
+}
+table {
+	width: 100%;
+}
+.first {
+	text-align: right;
+	padding-right: 5px;
+}
